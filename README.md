@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tuckerlins
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning python and r. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m learning python, r, and bash. 
+
 
 <!---
 tuckerlins/tuckerlins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
