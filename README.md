@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @tuckerlins
-- 👀 I’m interested in bioinformatics.
-- 🌱 I’m learning python, r, and bash. 
 # 👋 Hello, I'm Lindsey Tucker
 
 Bioinformatics PhD Student | Graduate Teaching Assistant | Atlanta, GA
