@@ -1,9 +1,19 @@
 - 👋 Hi, I’m @tuckerlins
 - 👀 I’m interested in bioinformatics.
 - 🌱 I’m learning python, r, and bash. 
+# 👋 Hello, I'm Lindsey Tucker
 
+Bioinformatics PhD Student | Graduate Teaching Assistant | Atlanta, GA
 
-<!---
-tuckerlins/tuckerlins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔬 About Me
+I use computational tools to understand epigenetics and biological systems. My work involves large genomic datasets, developing analysis pipelines, and teaching undergraduate biology courses. 
+
+### 🛠️ Core Skills
+- **Languages:** Python, R, Bash
+- **Specialties:** RNA-seq, genomics, data science, academic teaching
+
+### 🤝 Contact
+- 📧 ltucker49@gatech.edu
+- 💼 https://www.linkedin.com/in/tuckerlins
